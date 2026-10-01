@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 # In[17]:
 
 
-netflix=pd.read_csv("netflix.csv")
+netflix=pd.read_csv("Netflix_100_Customers_Dataset.csv")
 
 
 # In[3]:
